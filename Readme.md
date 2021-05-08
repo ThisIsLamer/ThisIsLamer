@@ -1,4 +1,4 @@
-# 👋 | Hello everyone!
+# 👋 Hello everyone!
 I am a Russian developer from Russia, developing in the following programming languages: JavaScript, Python.\
 I am currently developing some awesome Discord bots.\
 I'm ready to start joint development of a large-scale project.
