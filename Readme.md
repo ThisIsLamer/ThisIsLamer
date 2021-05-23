@@ -22,11 +22,23 @@ I'm ready to start joint development of a large-scale project.
 ### 🎓 | Now Learning
 *   DotNet
 *   MySql
-*   Deno
 *   Unity
 
-### 🤝 | Contact
+---
+
+<details>
+  <summary>⚡ Github Stats</summary>
+  
+![GitHub stats](https://github-readme-stats-nu-one.vercel.app/api?username=ThisIsLamer&show_icons=true&hide_border=true)
+
+</details>
+
+<details>
+  <summary>🤝 | Contact</summary>
+  
 *   Discord (active): *[Otter] Lamer#2800*
 *   Telegram (active also): *@Lamer13*
 *   Email: *mangushev.maks13@mail.ru*
 *   VK: *https://vk.com/thisislamer13*
+
+</details>
