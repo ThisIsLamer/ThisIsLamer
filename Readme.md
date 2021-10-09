@@ -1,5 +1,5 @@
 # 👋 Hello everyone!
-I am a Russian developer, I work in the following programming languages: JavaScript, Python. \
+I am a Russian developer, I work in the following programming languages: JavaScript. \
 I am currently developing cool bots for Discord. \
 I am ready to start joint development of a large-scale project.
 
