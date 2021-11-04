@@ -1,122 +1,45 @@
-<div class="main d-flex d-center">
-    <div style="width: 90%;">
-      <h1 class="t-center">Hey there!</h1>
-      <hr style="margin-top: -25px;">
-      <div class="t-center" style="margin-bottom: 20px;">I am a Russian developer. I am ready to participate in amazing projects.</div>
 
-      <div class="cards d-flex t-center">
-        <div class="card">
-          <div class="card_content">
-            <div class="card_title">Skills</div>
-            <div class="card_body">
-              <hr style="margin-top: -5px; margin-bottom: 15px;">
-              <div>
-                Backend + Frontend<br>
-                Server Applications & Bots<br>
-                UI/UX Designer (First level)<br>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card_content">
-            <div class="card_title">Tech Stack</div>
-            <div class="card_body">
-              <hr style="margin-top: -5px; margin-bottom: 15px;">
-              <div class="card_body">
-                TypeScript<br>
-                Python<br>
-                Fastify<br>
-                Vue.js (3)<br>
-                MariaDB<br>
-                MongoDB<br>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card_content">
-            <div class="card_title">Learning</div>
-            <div class="card_body">
-              <hr style="margin-top: -5px; margin-bottom: 15px;">
-              <div class="card_body">
-                dotNet<br>
-                Unity<br>
-                Bootstrap<br>
-                Flutter<br>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card_content">
-            <div class="card_title">Contact</div>
-            <div class="card_body">
-              <hr style="margin-top: -5px; margin-bottom: 15px;">
-              <div class="card_body">
-                Discord: [Otter] Lamer#2800<br>
-                Telegram: @Lamer13<br>
-                Email: thisislamer13@gmail.com<br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <style>
-    .main {
-      background-color: rgb(16, 2, 31);
-      color: white;
+# 👋 Hello everyone!
+I am a Russian developer, I work in the following programming languages: JavaScript. \
+I am currently developing cool bots for Discord. \
+I am ready to start joint development of a large-scale project.
 
-      width: 100%;
+### 👨‍💻 | Skills
+*   Frontend + Backend (Full Stack)
+*   Community Management
+*   UI/UX Designer (non-professional level)
 
-      padding: 10px;
-    }
+### 🛠️ | Tech Stack
+| Main Tools    | Web & Frameworks  | Databases     | Tech  | Programs  |
+| ------------- | :---------------: | :-----------: | :---: | :-------: |
+|![JavaScript](https://img.shields.io/badge/-JavaScript-2C2F33?style=flat&logo=javascript) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2C2F33?style=flat&logo=bootstrap) | ![MongoDB](https://img.shields.io/badge/-MongoDB-2C2F33?style=flat&logo=mongodb) | ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-2C2F33?style=flat) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2F33?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2C2F33?style=flat&logo=typescript) | ![Vue.js](https://img.shields.io/badge/-Vue.js-2C2F33?style=flat&logo=vue.js) | ![SQLite3](https://img.shields.io/badge/-SQLite3-2C2F33?style=flat&logo=sqlite) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-2C2F33?style=flat&logo=ubuntu) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-2C2F33?style=flat&&logo=visual-studio&logoColor=9053cc)
+![Node.js](https://img.shields.io/badge/-Node.js-2C2F33?style=flat&logo=node.js) | ![HTML](https://img.shields.io/badge/-HTML-2C2F33?style=flat&logo=HTML5) | | ![Docker](https://img.shields.io/badge/-Docker-2C2F33?style=flat&logo=docker) | ![Photoshop](https://img.shields.io/badge/-Photoshop-2C2F33?style=flat&logo=adobe-photoshop)
+![Python](https://img.shields.io/badge/-Python-2C2F33?style=flat&logo=Python) | ![CSS](https://img.shields.io/badge/-CSS-2C2F33?style=flat&logo=CSS3&logoColor=1572B6) | | ![GitHub](https://img.shields.io/badge/-GitHub-2C2F33?style=flat&logo=github) | ![WSL](https://img.shields.io/badge/-WSL-2C2F33?style=flat)
+| | | | ![Linux](https://img.shields.io/badge/-Linux-2C2F33?style=flat&logo=linux) |
+| | | | ![Nginx](https://img.shields.io/badge/-Nginx-2C2F33?style=flat&logo=nginx)
+| | | | ![Git](https://img.shields.io/badge/-Git-2C2F33?style=flat&logo=git)
 
-    .cards {
-      gap: 10px; 
+### 🎓 | Now Learning
+*   DotNet
+*   MySql
+*   Unity
 
-      flex-wrap: wrap;
-    }
+---
 
-    .card {
-      flex:1 1 calc(33.33% - 30px);
+<details>
+  <summary>⚡ Github Stats</summary>
 
-      min-width: 250px;
-      
-      padding: 15px;
+![GitHub stats](https://github-readme-stats-nu-one.vercel.app/api?username=ThisIsLamer&show_icons=true&hide_border=true)
 
-      display: flex;
-      justify-content: center;
+</details>
 
-      border-radius: 7px;
+<details>
+  <summary>🤝 | Contact</summary>
 
-      transition: .3s ease;
-    }
+*   Discord (active): *[Otter] Lamer#2800*
+*   Telegram (active also): *@Lamer13*
+*   Email: *mangushev.maks13@mail.ru*
+*   VK: *https://vk.com/thisislamer13*
 
-    .card:hover {
-      background-color: rgb(46, 20, 71);
-    }
-
-    .card:hover .card_body {
-      transition: .9s ease;
-
-      display: block;
-    }
-
-    .card_content {
-      width: 90%;
-    }
-
-    .card_title {
-      font-size: 25px;
-      font-weight: 600;
-    }
-
-    .card_body{
-      transition: .9s ease;
-
-      display: none;
-    }
-  </style>
+</details>
