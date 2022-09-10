@@ -1,38 +1,50 @@
+<h2 align="center"> space is our everything </h2>
+<h3 align="center"> Feel free to contact </h3>
 
-# 👋 Hello everyone!
-I am a Russian developer, I work in the following programming languages: JavaScript. \
-I am currently developing cool bots for Discord. \
-I am ready to start joint development of a large-scale project.
+<br/>
+<br/>
 
-### 👨‍💻 | Skills
-*   Frontend + Backend (Full Stack)
-*   Community Management
-*   UI/UX Designer (non-professional level)
+<p align="center">
+  <img alt="HTML5" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="Vue" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img alt="NestJS" height="32px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
+  <img alt="Node.js" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img alt="Javascript" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="Typescript" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img alt="CSharp" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+  <img alt="Rust" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+  <img alt="MongoDB" height="32px" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" />
+  <img alt="SQL" height="32px" src="https://bobpusateri.blob.core.windows.net/bcn/2020/04/Azure_SQL_DB.png" />
+  <img alt="Git" height="32px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <br />
+</p>
 
-### 🛠️ | Tech Stack
-| Main Tools    | Web & Frameworks  | Databases     | Tech  | Programs  |
-| ------------- | :---------------: | :-----------: | :---: | :-------: |
-|![JavaScript](https://img.shields.io/badge/-JavaScript-2C2F33?style=flat&logo=javascript) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2C2F33?style=flat&logo=bootstrap) | ![MongoDB](https://img.shields.io/badge/-MongoDB-2C2F33?style=flat&logo=mongodb) | ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-2C2F33?style=flat) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2F33?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2C2F33?style=flat&logo=typescript) | ![Vue.js](https://img.shields.io/badge/-Vue.js-2C2F33?style=flat&logo=vue.js) | ![SQLite3](https://img.shields.io/badge/-SQLite3-2C2F33?style=flat&logo=sqlite) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-2C2F33?style=flat&logo=ubuntu) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-2C2F33?style=flat&&logo=visual-studio&logoColor=9053cc)
-![Node.js](https://img.shields.io/badge/-Node.js-2C2F33?style=flat&logo=node.js) | ![HTML](https://img.shields.io/badge/-HTML-2C2F33?style=flat&logo=HTML5) | | ![Docker](https://img.shields.io/badge/-Docker-2C2F33?style=flat&logo=docker) | ![Photoshop](https://img.shields.io/badge/-Photoshop-2C2F33?style=flat&logo=adobe-photoshop)
-![Python](https://img.shields.io/badge/-Python-2C2F33?style=flat&logo=Python) | ![CSS](https://img.shields.io/badge/-CSS-2C2F33?style=flat&logo=CSS3&logoColor=1572B6) | | ![GitHub](https://img.shields.io/badge/-GitHub-2C2F33?style=flat&logo=github) | ![WSL](https://img.shields.io/badge/-WSL-2C2F33?style=flat)
-| | | | ![Linux](https://img.shields.io/badge/-Linux-2C2F33?style=flat&logo=linux) |
-| | | | ![Nginx](https://img.shields.io/badge/-Nginx-2C2F33?style=flat&logo=nginx)
-| | | | ![Git](https://img.shields.io/badge/-Git-2C2F33?style=flat&logo=git)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=thisislamer&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=ff1486&bg_color=00000000&hide_border=true&count_private=true&hide_title=true&text_color=0969da">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisislamer&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000&layout=compact&card_width=250&text_color=0969da">
+  </a>
+</p>
 
-### 🎓 | Now Learning
-*   DotNet
-*   MySql
-*   Unity
+<h4>
 
----
-
-<details>
-  <summary>⚡ Github Stats</summary>
-
-![GitHub stats](https://github-readme-stats-nu-one.vercel.app/api?username=ThisIsLamer&show_icons=true&hide_border=true)
-
-</details>
+```ts
+const lamerUser = new UserBase({
+  name:       "Maxim",
+  nickname:   "Lamer",
+  pronouns:   [ "he", "him" ],
+  code:       [ "Javascript", "Typescript", "HTML", "CSS", "Vue 3", "Rust", "CSharp" ],
+  fav_theme:  [ "Mokka", "Spotify Theme" ],
+  line_ends:  "lf",
+  code_style: "prettier",
+  variables:  "camelCase",
+  editors:    [ "VS Code", "Visual Studio", "Sublime Text" ],
+});
+```
+</h4>
 
 <details>
   <summary>🤝 | Contact</summary>
@@ -41,5 +53,12 @@ I am ready to start joint development of a large-scale project.
 *   Telegram (active also): *@Lamer13*
 *   Email: *mangushev.maks13@mail.ru*
 *   VK: *https://vk.com/thisislamer13*
+
+</details>
+
+<details>
+  <summary>👋 | Inspired</summary>
+
+*   https://github.com/N1kO23*
 
 </details>
