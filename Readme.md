@@ -1,5 +1,5 @@
-<h2 align="center"> space is our everything </h2>
-<h3 align="center"> Feel free to contact </h3>
+<h2 align="center"> Space is our everything </h2>
+<h3 align="center"> Stack </h3>
 
 <br/>
 <br/>
