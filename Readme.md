@@ -29,8 +29,6 @@
   </a>
 </p>
 
-<h4>
-
 ```ts
 const lamerUser = new UserBase({
   name:       "Maxim",
@@ -44,7 +42,6 @@ const lamerUser = new UserBase({
   editors:    [ "VS Code", "Visual Studio", "Sublime Text" ],
 });
 ```
-</h4>
 
 <details>
   <summary>🤝 | Contact</summary>
