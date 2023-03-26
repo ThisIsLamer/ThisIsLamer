@@ -48,7 +48,7 @@ const lamerUser = new UserBase({
 
 *   Discord (active): *[Otter] Lamer#2800*
 *   Telegram (active also): *@Lamer13*
-*   Email: *mangushev.maks13@mail.ru*
+*   Email: *thisislamer13@gmail.com*
 *   VK: *https://vk.com/thisislamer13*
 
 </details>
